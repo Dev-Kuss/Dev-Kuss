@@ -1,3 +1,5 @@
+---
+
 # Olá, sou Matheus Kuss! 👋
 
 **Desenvolvedor Back-End | Analista de Integrações | Entusiasta em Tecnologia**
@@ -6,7 +8,7 @@
 
 ## Sobre Mim
 
-Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 15 anos. Essa jornada me proporcionou um vasto conhecimento em diversas tecnologias e me tornou uma pessoa adaptável e focada em encontrar soluções. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** na Universidade Federal do Paraná (UFPR) e busco constantemente aprimorar minhas habilidades, especialmente no desenvolvimento back-end e integrações de sistemas.
+Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 15 anos. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** na Universidade Federal do Paraná (UFPR) e busco constantemente aprimorar minhas habilidades, especialmente no desenvolvimento back-end e integrações de sistemas.
 
 ---
 
@@ -16,16 +18,23 @@ Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 
   - Java (Orientação a Objetos)
   - Python
 - **Frameworks e Ferramentas:**
-  - Spring Boot
-  - API REST
+  - Spring Boot (APIs REST)
+  - Angular (Frontend)
+  - Apache Airflow (Orquestração de Workflows)
+- **Mensageria:**
+  - RabbitMQ (Bantads)
+  - Kafka (Ingestão de dados em tempo real)
+- **Banco de Dados:**
+  - PostgreSQL (Back-end de projetos e ETL)
+- **Containers e Orquestração:**
+  - Docker e Docker Compose
+- **Automação e Integração:**
   - Jenkins (Automação e Builds)
-  - Kafka (Serviço de Mensageria)
-  - SQL (Banco de Dados)
 - **Metodologias Ágeis:**
   - Scrum
   - Kanban
 - **Outros:**
-  - Integração ETL
+  - Integração ETL (Extração, Transformação e Carga de dados)
   - Testes Unitários (JUnit 5)
   - Git (Controle de Versionamento)
 
@@ -33,32 +42,71 @@ Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 
 
 ## Projetos de Destaque
 
-Aqui estão alguns dos projetos nos quais trabalhei e que refletem minhas habilidades técnicas:
+### 1. [Projeto Bantads]
+- **Descrição**: Um sistema bancário desenvolvido em **Java** e **Spring Boot**, com integrações RESTful para gerenciamento de contas e transações. O sistema utiliza **RabbitMQ** para mensageria e comunicação assíncrona entre serviços.
+- **Tecnologias Utilizadas**:
+  - Backend: Spring Boot
+  - Mensageria: RabbitMQ
+  - Banco de Dados: PostgreSQL
+  - Testes Unitários: JUnit
+  - Containers: Docker para containers
+- **Principais Funcionalidades**:
+  - API REST para operações bancárias
+  - Integração com **RabbitMQ** para comunicação assíncrona entre serviços
+  - Containers Docker para fácil implementação e execução
 
-1. **[Projeto Bantads]**
-   - Projeto desenvolvido em Java e Spring Boot, com foco em integrações RESTful e manuseio de banco de dados SQL.
+### 2. [Projeto de Manutenção de Equipamentos]
+- **Descrição**: Sistema de gerenciamento de manutenção de equipamentos, com arquitetura back-end em Spring Boot e frontend em Angular. A aplicação foi projetada para registrar ordens de manutenção, alocar técnicos e acompanhar o progresso dos serviços.
+- **Tecnologias Utilizadas**:
+  - **Backend**: Spring Boot com API REST
+  - **Frontend**: Angular
+  - **Banco de Dados**: PostgreSQL
+  - **Contêineres**: Docker e Docker Compose para gerenciamento de serviços
+- **Principais Funcionalidades**:
+  - Gerenciamento de ordens de serviço (criação, edição e finalização)
+  - Atribuição de técnicos e agendamento de manutenção
+  - Painel de controle para visualização de ordens em andamento e finalizadas
+  - Interface intuitiva desenvolvida com Angular e estilizada com TailwindCSS
+- **Comandos Principais**:
+  - Iniciar backend: 
+    ```bash
+    mvn spring-boot:run
+    ```
+  - Servir frontend: 
+    ```bash
+    npm start
+    ```
+  - Iniciar ambos os serviços com Docker Compose:
+    ```bash
+    docker-compose up --build
+    ```
 
-2. **[Sistema de Integração ETL]**
-   - Sistema criado para automação de processos ETL e suporte à controladoria, com foco em Python e SQL.
-
-3. **[Apache Airflow Workflow]**
-   - Projeto para orquestração de workflows utilizando Apache Airflow, com scripts de produção e consumo de dados em tempo real integrados com Kafka e bancos de dados SQL.
+### 3. [Sistema de Integração ETL e Apache Airflow Workflow]
+- **Descrição**: Sistema robusto para automação de processos de **ETL** (Extração, Transformação e Carga) e orquestração de workflows utilizando **Apache Airflow**. O foco do projeto está na ingestão e processamento de dados em tempo real, integrando com bancos de dados SQL e serviços de mensageria.
+- **Tecnologias Utilizadas**:
+  - Linguagem: Python
+  - Automação de Workflows: Apache Airflow
+  - Mensageria: Kafka
+  - Banco de Dados: PostgreSQL
+- **Principais Funcionalidades**:
+  - Automação de processos financeiros e de controle com integração de dados em múltiplas fontes
+  - Integração de scripts para orquestração de workflows via Apache Airflow
+  - Pipeline de ingestão de dados em tempo real com Kafka e PostgreSQL
 
 ---
 
-## Contato
+## Como Contribuir
 
-- **LinkedIn:** [Matheus Kuss](https://www.linkedin.com/in/matheus-kuss/)
-- **E-mail:** matheuskuss@hotmail.com
-
----
-
-## Idiomas
-
-- **Português:** Nativo
-- **Inglês:** Fluência Operativa (B2.2)
-- **Alemão:** Intermediário Avançado (B2)
+1. Faça um fork do repositório.
+2. Crie sua branch (`git checkout -b minha-feature`).
+3. Faça suas mudanças e comente (`git commit -m 'Minha nova feature'`).
+4. Envie suas mudanças para o repositório remoto (`git push origin minha-feature`).
+5. Crie um Pull Request.
 
 ---
 
-Fique à vontade para explorar meus repositórios e entrar em contato. Vamos colaborar e construir juntos soluções inovadoras! 🚀
+## Licença
+
+Este projeto é parte de um curso acadêmico e não possui uma licença aberta para uso externo.
+
+---
