@@ -65,19 +65,6 @@ Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 
   - Atribuição de técnicos e agendamento de manutenção
   - Painel de controle para visualização de ordens em andamento e finalizadas
   - Interface intuitiva desenvolvida com Angular e estilizada com TailwindCSS
-- **Comandos Principais**:
-  - Iniciar backend: 
-    ```bash
-    mvn spring-boot:run
-    ```
-  - Servir frontend: 
-    ```bash
-    npm start
-    ```
-  - Iniciar ambos os serviços com Docker Compose:
-    ```bash
-    docker-compose up --build
-    ```
 
 ### 3. [Sistema de Integração ETL e Apache Airflow Workflow]
 - **Descrição**: Sistema robusto para automação de processos de **ETL** (Extração, Transformação e Carga) e orquestração de workflows utilizando **Apache Airflow**. O foco do projeto está na ingestão e processamento de dados em tempo real, integrando com bancos de dados SQL e serviços de mensageria.
@@ -90,21 +77,5 @@ Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 
   - Automação de processos financeiros e de controle com integração de dados em múltiplas fontes
   - Integração de scripts para orquestração de workflows via Apache Airflow
   - Pipeline de ingestão de dados em tempo real com Kafka e PostgreSQL
-
----
-
-## Como Contribuir
-
-1. Faça um fork do repositório.
-2. Crie sua branch (`git checkout -b minha-feature`).
-3. Faça suas mudanças e comente (`git commit -m 'Minha nova feature'`).
-4. Envie suas mudanças para o repositório remoto (`git push origin minha-feature`).
-5. Crie um Pull Request.
-
----
-
-## Licença
-
-Este projeto é parte de um curso acadêmico e não possui uma licença aberta para uso externo.
 
 ---
