@@ -1,5 +1,3 @@
----
-
 # Olá, sou Matheus Kuss! 👋
 
 **Desenvolvedor Back-End | Analista de Integrações | Entusiasta em Tecnologia**
