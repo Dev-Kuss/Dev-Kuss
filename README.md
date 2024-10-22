@@ -15,10 +15,13 @@ Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 
 - **Linguagens de Programação:**
   - Java (Orientação a Objetos)
   - Python
+  - SQL
 - **Frameworks e Ferramentas:**
   - Spring Boot (APIs REST)
   - Angular (Frontend)
   - Apache Airflow (Orquestração de Workflows)
+  - Flask
+  - Pandas
 - **Mensageria:**
   - RabbitMQ (Bantads)
   - Kafka (Ingestão de dados em tempo real)
@@ -31,6 +34,7 @@ Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 
 - **Metodologias Ágeis:**
   - Scrum
   - Kanban
+  - Jira
 - **Outros:**
   - Integração ETL (Extração, Transformação e Carga de dados)
   - Testes Unitários (JUnit 5, Mockito)
