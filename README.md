@@ -14,7 +14,37 @@
 
 ###
 
-<h2 align="left">Habilidades Técnicas</h2>
+## Habilidades Técnicas
+
+- **Linguagens de Programação:**
+  - Java (Orientação a Objetos)
+  - Python
+  - SQL
+- **Frameworks e Ferramentas:**
+  - Spring Boot (APIs REST)
+  - Angular (Frontend)
+  - Apache Airflow (Orquestração de Workflows)
+  - Flask
+  - Pandas
+- **Mensageria:**
+  - RabbitMQ (Bantads)
+  - Kafka (Ingestão de dados em tempo real)
+- **Banco de Dados:**
+  - PostgreSQL (Back-end de projetos e ETL)
+- **Containers e Orquestração:**
+  - Docker e Docker Compose
+- **Automação e Integração:**
+  - Jenkins (Automação e Builds)
+- **Metodologias Ágeis:**
+  - Scrum
+  - Kanban
+  - Jira
+- **Outros:**
+  - Integração ETL (Extração, Transformação e Carga de dados)
+  - Testes Unitários (JUnit 5, Mockito)
+  - Git (Controle de Versionamento)
+
+---
 
 ###
 
