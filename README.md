@@ -13,7 +13,7 @@
 
 <div align="center">
   
-[![card](https://github-readme-stats.vercel.app/api?username=Dev-Kuss&theme=Dark&show_icons=true)](https://github.com/Dev-Kuss/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=Dev-Kuss&theme=dark&show_icons=true)](https://github.com/Dev-Kuss/github-readme-stats)
 
   
   <img src="https://streak-stats.demolab.com?user=Dev-Kuss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
