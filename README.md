@@ -1,12 +1,15 @@
 <h1 align="left">Olá, sou Matheus Kuss! 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Kuss&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Kuss" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev-Kuss" alt="Dev-Kuss" /></a> </p>
-###
 
 <h5 align="left">Desenvolvedor Back-End | Analista de Integrações | Entusiasta em Tecnologia</h5>
 
 ###
+
+###
+<h2 align="left">Sobre Mim</h2>
+
+###
+
+<h5 align="left">Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 15 anos. Atualmente, estudo Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR) e busco constantemente aprimorar minhas habilidades, especialmente no desenvolvimento Back-End e integrações de sistemas.</h5>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Kuss&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -68,13 +71,6 @@
 ###
 
 [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-###
-<h2 align="left">Sobre Mim</h2>
-
-###
-
-<h5 align="left">Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 15 anos. Atualmente, estudo Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR) e busco constantemente aprimorar minhas habilidades, especialmente no desenvolvimento Back-End e integrações de sistemas.</h5>
 
 ###
 
