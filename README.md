@@ -12,7 +12,10 @@
 <h5 align="left">Sou apaixonado por tecnologia desde criança e comecei a trabalhar na área com 15 anos. Atualmente, estudo Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR) e busco constantemente aprimorar minhas habilidades, especialmente no desenvolvimento Back-End e integrações de sistemas.</h5>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Kuss&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  
+[![card](https://github-readme-stats.vercel.app/api?username=Dev-Kuss&theme=Dark&show_icons=true)](https://github.com/Dev-Kuss/github-readme-stats)
+
+  
   <img src="https://streak-stats.demolab.com?user=Dev-Kuss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Kuss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -67,10 +70,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
-
-###
-
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
