@@ -65,12 +65,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Dev-Kuss/Dev-Kuss/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Sobre Mim</h2>
 
 ###
