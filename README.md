@@ -1,8 +1,5 @@
 <h1 align="left">Olá, sou Matheus Kuss! 👋</h1>
-
 <h5 align="left">Desenvolvedor Back-End | Analista de Integrações | Entusiasta em Tecnologia</h5>
-
-###
 
 ###
 <h2 align="left">Sobre Mim</h2>
